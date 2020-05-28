@@ -1,0 +1,13 @@
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe.config
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\SmartHouse.exe
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\SmartHouse.pdb
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\MySql.Data.dll
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\Google.Protobuf.dll
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\MySql.Data.xml
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csprojAssemblyReference.cache
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csproj.CoreCompileInputs.cache
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.csproj.CopyComplete
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.exe
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\obj\Debug\SmartHouse.pdb
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\System.ValueTuple.dll
+C:\Users\XD\source\repos\SmartHouse\SmartHouse\bin\Debug\System.ValueTuple.xml
